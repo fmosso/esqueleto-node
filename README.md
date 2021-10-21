@@ -11,9 +11,9 @@ Para levantar la aplicacion:
 - Tener instalado node 
 - Ejecutar comando `npm start`
 
-La aplicacion se levanta en el puerto 3000, por lo tanto la ruta completa seria:
+La aplicacion se levanta en el puerto 3000, por lo tanto la ruta completa sería:
 
-get localhost:3000/clientes
+`get localhost:3000/clientes`
 
 Para ejecutar los tests:
 - Tener instalado node 
