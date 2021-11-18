@@ -9,7 +9,7 @@ app.use(express.json())
 app.use(router)
 
 const server = app.listen(port, () => {
-  console.log(`skeleton api rest at http://localhost:${port}`)
+  console.log(`Proyecto valhalla http://localhost:${port}`)
 })
 
 export default server
